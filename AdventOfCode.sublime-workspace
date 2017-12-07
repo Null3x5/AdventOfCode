@@ -83,12 +83,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/C/Users/Zero/Documents/GitHub/AdventOfCode"
-	],
 	"file_history":
 	[
+		"/home/zero/GitStuff/AdventOfCode/2017/Null3x5/Solution 3/SolutionB.js",
+		"/home/zero/GitStuff/AdventOfCode/2017/Null3x5/Solution 3/Solution.js",
 		"/C/Users/Zero/Documents/Notes/DevStuff/PowerShellAndSQLServer.notes",
 		"/C/Users/Zero/Documents/Notes/DevStuff/SublimePlugin.notes",
 		"/C/Users/Zero/Documents/Notes/_StartingNote.Notes",
@@ -135,12 +133,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"folders":
-	[
-		{
-			"path": "C:\\Users\\Zero\\Documents\\GitHub\\AdventOfCode"
-		}
-	],
 	"groups":
 	[
 		{
@@ -180,12 +172,20 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
-	"pinned_build_system": "",
-	"project": "",
+	"output.nodejs":
+	{
+		"height": 311.0
+	},
+	"pinned_build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"project": "AdventOfCode.sublime-workspace",
 	"replace":
 	{
 		"height": 0.0
@@ -223,10 +223,10 @@
 	{
 	},
 	"show_minimap": true,
-	"show_open_files": false,
+	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 295.0,
+	"side_bar_width": 360.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
